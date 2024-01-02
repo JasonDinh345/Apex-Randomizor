@@ -1,5 +1,5 @@
 Classes:
-Circle: Contains the location of the circle when randomizing the drop location
+Circle: Contains the location of the circle when randomizing the drop location "\n"
 DropLocations: Contains the names of all the POI's 
 FrontPage: Extends JPanel to create an image background 
 GUI: Implements all the UI components and actions
