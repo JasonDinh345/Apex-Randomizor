@@ -1,17 +1,17 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Classes:
+Circle: Contains the location of the circle when randomizing the drop location
+DropLocations: Contains the names of all the POI's 
+FrontPage: Extends JPanel to create an image background 
+GUI: Implements all the UI components and actions
+Legends: Contains all the legend names and a method to return a random legend
+Main: Runs the GUI class
+Maps: Contains all the map names
+Maps: Extends JPanel and creates an image background
+Picture: Extends JLabel to make the label into an image for the weapons, guns, map image, and background
+RandomizeGun: Changes the weapon image and background 
+RandomizeLegend: Changes legend image
+WeaponRec: Hold the info for the weapon background
+Weapons: Contains all the weapon names and methods to add or remove certain weapons
 
 ## Dependency Management
 
