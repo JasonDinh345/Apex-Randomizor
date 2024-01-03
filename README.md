@@ -1,5 +1,7 @@
 Apex Randomizer for S19 <br>
 
+ADD THE RES FOLDER TO THE SOURCE PATH <br>
+
 
 Classes:<br>
 Circle: Contains the location of the circle when randomizing the drop location <br>
