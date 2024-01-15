@@ -18,6 +18,9 @@ A list of what I learned:<br>
   <li>Further understanding of extending a class like JPanel to add additional methods that enhance your program</li>
   <li>Using the paintComponet to create shapes with different colors and locatoins</li>
   <li>Scaling an image to fit your desired size</li>
+  <li>JTabbedPane to add two different panles</li>
+  <li>Importing a custom font</li>
+  <li>Implementing ActionListener to make my elements perform an action when pressed</li>
 </ul>
 <h2>Known Issues</h2>
 The main problem with this with window scaling. Sometimes the program will run and the buttons will be offscreen <br>
