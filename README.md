@@ -3,11 +3,11 @@
 <h4>Make sure you add the res and main to the source path</h4>
 <br>
 <br>
-<img src="https://i.imgur.com/t7OKcCA.png">
+<img src="preview_images/img1.png">
 With this program, you can randomize your legend and your loadout. Whether you would like to randomize them individually, all at the same time, or include/exclude certain types of weapons, the choice it yours.
-<img src="https://i.imgur.com/NMfBY6b.png">
+<img src="preview_images/img2.png"">
 On the next tab, you can randomize where you drop. You can choose which map you are on and randomize which location you will land with a circle guiding you on the map.
-<img src="https://i.imgur.com/Sx3a1X9.png">
+<img src="preview_images/img3.png"">
 <h2>What I Learned</h2>
 This was my first Java project so I learned alot of things during this process. <br>
 While it isn't the best and neatest program, I'm proud I got it to work. <br>
